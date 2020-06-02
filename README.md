@@ -1,9 +1,13 @@
 **Best way to do cloud torrenting.**
 
-# Torrent To Google Drive Downloader
+# Torrent & URLs To Google Drive Downloader
 Simple notebook to stream torrent files to Google Drive using Google Colab.
 
-<a href="https://colab.research.google.com/github/JeelPatel231/Torrent2GDrive/blob/master/Torrent_To_Google_Drive_Downloader_v2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+####**Torrent**
+<a href="https://colab.research.google.com/github/JeelPatel231/Torrent2GDrive/blob/master/Torrent_To_Google_Drive_Downloader.ipynb" target="_parent"><img src="http://icons.iconarchive.com/icons/shaunkleyn/phlat-blue-folders/128/Torrents-icon.png" alt="Torrent/Open In Colab"/></a>
+
+####**URLs**
+<a href="https://colab.research.google.com/github/JeelPatel231/Torrent2GDrive/blob/master/GDrive_Streaming.ipynb" target="_parent"><img src="http://icons.iconarchive.com/icons/dtafalonso/android-lollipop/128/Downloads-icon.png" alt="URLs/Open In Colab"/></a>
 
 ### Tutorial
 1. Click the badge which says 'Open in Colab'.
