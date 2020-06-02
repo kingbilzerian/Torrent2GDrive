@@ -1,6 +1,3 @@
-# This notebook is NOT completely useless
-~After releasing notebook, I just realized this notebook is completely useless because you know we can select which files to download so I don't have to download the whole thing also these days most of the torrent clients have media players so this program is completely useless but I'm going to keep it on my Github because the source code is might be useful for somebody.~
-
 **Best way to do cloud torrenting.**
 
 # Torrent To Google Drive Downloader
@@ -20,14 +17,6 @@ After download finishes the downloaded files will be in there in your drive in a
 1. Because of Google Servers speed, I downloaded 35GB of file and the average speed was 60MBPS.
 2. Because it is in the cloud, by that I mean I can access it anywhere on my phone, tablet or etc without copying file to all of them.
 3. You can bypass any restrictions on torrenting set by your ISP and access your files through drive (neat isn't it!).
-
-# Screenshot
-
-![Getting Torrent Link](https://github.com/spireon-ex10/Torrent-To-Google-Drive-Downloader-v2/raw/master/Image/01.jpg)
-
-![Pasting Torrent Link](https://github.com/spireon-ex10/Torrent-To-Google-Drive-Downloader-v2/raw/master/Image/02.jpg)
-
-
 
 ### Frequently Asked Questions
 1. **How get more disk space**: We can now download bigger torrents. To do it
@@ -50,4 +39,3 @@ Please note that using Colaboratory for cryptocurrency mining is disallowed enti
 
 <sub>Source: https://research.google.com/colaboratory/faq.html</sub>
 
-### Maintained By : [Rishabh Singh](https://github.com/r12habh)
