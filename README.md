@@ -6,7 +6,7 @@ Simple notebook to stream torrent or any files to Google Drive using Google Cola
 <p align="center">
 	
 **URLs and Torrents have been merged** <br>
-<a href="https://colab.research.google.com/github/JeelPatel231/Torrent2GDrive/blob/master/GDrive_Streaming.ipynb" target="_parent"><img src="http://icons.iconarchive.com/icons/dtafalonso/android-lollipop/128/Downloads-icon.png" alt="URLs/Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/JeelPatel231/Torrent2GDrive/blob/master/Torrent-To-Google-Drive-Downloader.ipynb" target="_parent"><img src="http://icons.iconarchive.com/icons/dtafalonso/android-lollipop/128/Downloads-icon.png" alt="URLs/Open In Colab"/></a>
 
 </p>
 ### Tutorial
